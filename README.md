@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/jonasmachado01"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
   	<a href="https://web.facebook.com/jonas.machado.90/"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
 	<a href="https://api.whatsapp.com/send?phone=5535999128326"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp" alt="Whatsapp"/></a>
+	<a href="mailto:jonasmachado.ti@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmailhttps://img.icons8.com/bubbles/50/000000/gmail" />
+</a>
 </div>
 <br><br>
 

@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, Spring boot, HTML, CSS, Bootstrap, JavaScript.
 - 🧑‍💻 I’am looking for new opportunities to dev Java Jr.
 <br>
-
+<h3 align="center">See my projects in my portfolio 👉🏼 https://jonasmachado.netlify.app/</h3>
+<br>
 <div align="center">
 	<h2>Connect with me: </h2>
 	<a href="https://github.com/jonasmachados"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>

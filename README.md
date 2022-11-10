@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development (NodeJS, ReactJS and SpringBoot).
 - 💬 Ask me about Java, Spring boot, HTML, CSS, Bootstrap, JavaScript.
 - 🧑‍💻 I’am looking for new opportunities to dev Java Jr.
+- 📫 How to reach me: https://www.linkedin.com/in/jonas-machados | +55 (35) 999128326 
 <br>
 <h3 align="center">See my projects in my portfolio 👉🏼 https://jonasmachado.netlify.app/</h3>
 <br>

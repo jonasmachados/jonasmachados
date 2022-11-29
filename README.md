@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 - 🧑‍💻 I’am looking for new opportunities to dev Java Jr.
 - 📫 How to reach me: https://www.linkedin.com/in/jonas-machados | +55 (35) 999128326 
 <br>
-<h3 align="center">See my projects in my portfolio 👉🏼 https://jonasmachado.netlify.app/</h3>
+<h3 align="center">See my projects and more about me in my portfolio.</h3>
+<div align="center">
+<a href="https://jonasmachado.netlify.app"><img src="https://user-images.githubusercontent.com/67349235/203813371-164a8a4e-08b2-4577-9c86-c4cb2c3feb58.png" alt="button"/></a>
+</div>
 <br>
 <div align="center">
 	<h2>Connect with me: </h2>

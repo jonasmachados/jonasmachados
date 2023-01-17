@@ -12,21 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> Hi everyone, I'm Jonas Machado! 👋 </h3>
+
+<h2> Hi everyone, I'm Jonas Machado! 👋 </h2>
 
 <h1> I'm a full stack Java developer </h1>
 
 - 🌱 I’m currently learning web development (NodeJS, ReactJS and SpringBoot).
 - 💬 Ask me about Java, Spring boot, HTML, CSS, Bootstrap, JavaScript.
 - 🧑‍💻 I’am looking for new opportunities to dev Java Jr.
-- 📫 How to reach me: https://www.linkedin.com/in/jonas-machados | +55 (35) 999128326 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jonas-machados">Linkedin</a> | +55 (35) 999128326 
 <br>
+
 <h3 align="center">See my projects and more about me in my portfolio.</h3>
 <div align="center">
 <a href="https://jonasmachado.netlify.app"><img src="https://user-images.githubusercontent.com/67349235/203813371-164a8a4e-08b2-4577-9c86-c4cb2c3feb58.png" alt="button"/></a>
 </div>
 <br>
-<div align="center">
+<div align="center"; color="#fff">
 	<h2>Connect with me: </h2>
 	<a href="https://github.com/jonasmachados"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jonas-machados/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
